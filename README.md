@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @RafaelNassybullin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RafaelNassybullin/RafaelNassybullin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Rafael Nassybullin
+- 👀 I’m interested in JavaScript web developpment and IOS Swift Development
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me https://t.me/Rafael_RFL
