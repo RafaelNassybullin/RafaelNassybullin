@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rafael Nassybullin
-- 👀 I’m interested in JavaScript web developpment and IOS Swift Development
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m Frontend React Developer 
 - 📫 How to reach me https://t.me/Rafael_RFL
+
+- 🌱 I’m currently learning SwiftUI
